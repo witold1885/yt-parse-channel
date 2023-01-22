@@ -1,0 +1,16 @@
+{
+  "name": "yt-parse-channel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WN",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.8",
+    "puppeteer": "^19.5.2"
+  }
+}
