@@ -1,5 +1,5 @@
 {
-	"download_path": "",
+	"download_path": "C:\\yt-parse-channel-master\\downloads\\",
 	"puppeteer": {
 		"executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
 	}
